@@ -9,7 +9,7 @@ import com.robotium.solo.Solo;
 public class g_food_e_f_addFood_generic extends ActivityInstrumentationTestCase2 {
     private Solo solo;
 
-    private static final String LAUNCHER_ACTIVITY_FULL_CLASSNAME = "com.fitbit.onboarding.landing.LandingActivity_";
+    private static final String LAUNCHER_ACTIVITY_FULL_CLASSNAME = "com.fitbit.onboarding.landing.LandingActivity";
 
     private static Class<?> launcherActivityClass;
     static{
